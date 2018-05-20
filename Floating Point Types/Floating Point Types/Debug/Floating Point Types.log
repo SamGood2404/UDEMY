@@ -1,0 +1,5 @@
+﻿  Floating Point Types.cpp
+c:\users\sam\source\repos\floating point types\floating point types\floating point types.cpp(11): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\sam\source\repos\floating point types\floating point types\floating point types.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\sam\source\repos\floating point types\floating point types\floating point types.cpp(36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Floating Point Types.vcxproj -> C:\Users\Sam\source\repos\Floating Point Types\Debug\Floating Point Types.exe
