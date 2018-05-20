@@ -1,0 +1,4 @@
+﻿  Comparing Floats.cpp
+c:\users\sam\source\repos\comparing floats\comparing floats\comparing floats.cpp(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\sam\source\repos\comparing floats\comparing floats\comparing floats.cpp(31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Comparing Floats.vcxproj -> C:\Users\Sam\source\repos\Comparing Floats\Debug\Comparing Floats.exe
